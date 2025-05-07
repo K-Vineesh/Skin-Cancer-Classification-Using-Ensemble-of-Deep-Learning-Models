@@ -51,5 +51,5 @@ We used the **HAM10000** dataset which consists of over 10,000 dermoscopic image
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/skin-cancer-ensemble-cnn.git
+git clone https://github.com/K-Vineesh/Skin-Cancer-Classification-Using-Ensemble-of-Deep-Learning-Models.git
 cd skin-cancer-ensemble-cnn
